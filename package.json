@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "axios": "^1.8.2",
+    "brace-expansion": "^2.0.2",
+    "form-data": "^4.0.4",
+    "http-proxy-middleware": "^2.0.8",
+    "on-headers": "^1.1.0",
+    "webpack-dev-server": "^5.2.1"
+  }
+}
